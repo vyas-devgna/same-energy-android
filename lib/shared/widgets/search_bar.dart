@@ -76,7 +76,7 @@ class _AppSearchBarState extends State<AppSearchBar> {
 
   void _submitSearch() {
     _debounceTimer?.cancel();
-    _debounceTimer = Timer(const Duration(milliseconds: 300), () {
+    _debounceTimer = Timer(const Duration(milliseconds: 800), () {
       final query = _controller.text.trim();
       if (query.isEmpty) return;
       widget.onSearch?.call(query);

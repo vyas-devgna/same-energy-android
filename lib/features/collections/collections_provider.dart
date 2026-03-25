@@ -944,6 +944,8 @@ class SavedItemsNotifier extends StateNotifier<SavedState> {
       ids.insert(0, event.id);
     }
 
+    collectionImages.removeWhere((key, value) => value.isEmpty);
+
     final imageCollections = <String, Set<String>>{};
     for (final entry in collectionImages.entries) {
       for (final imageId in entry.value) {

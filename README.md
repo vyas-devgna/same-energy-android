@@ -225,8 +225,8 @@ All notable changes are documented in the [CHANGELOG](CHANGELOG.md).
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/AsyncBanana">
-        <img src="https://github.com/AsyncBanana.png" width="100px;" style="border-radius: 50%" alt="Jacob Jackson"/><br />
+      <a href="https://github.com/zxqfl">
+        <img src="https://github.com/zxqfl.png" width="100px;" style="border-radius: 50%" alt="Jacob Jackson"/><br />
         <sub><b>Jacob Jackson</b></sub>
       </a><br />
       <em>Creator of same.energy</em><br/>
