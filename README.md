@@ -214,14 +214,41 @@ All notable changes are documented in the [CHANGELOG](CHANGELOG.md).
 
 ### Development Team
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><strong>Maitri Kansagra</strong><br/><em>UI/UX Design & Visual Polish</em><br/>Screen layouts · Glassmorphism styling<br/>Animations · Theme system</td>
-    <td align="center"><strong>Devgna Vyas</strong><br/><em>Technical Architecture</em><br/>App architecture · State management<br/>API integration · Auth & security</td>
+    <td align="center">
+      <a href="https://github.com/MAITRI137">
+        <img src="https://github.com/MAITRI137.png" width="100px;" style="border-radius: 50%" alt="Maitri Kansagra"/><br />
+        <sub><b>Maitri Kansagra</b></sub>
+      </a><br />
+      <em>UI/UX Design & Visual Polish</em><br/>
+      <small>Screen layouts · Glassmorphism styling<br/>Animations · Theme system</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vyas-devgna">
+        <img src="https://github.com/vyas-devgna.png" width="100px;" style="border-radius: 50%" alt="Devgna Vyas"/><br />
+        <sub><b>Devgna Vyas</b></sub>
+      </a><br />
+      <em>Technical Architecture</em><br/>
+      <small>App architecture · State management<br/>API integration · Auth & security</small>
+    </td>
   </tr>
 </table>
 
 ### Original Platform
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AsyncBanana">
+        <img src="https://github.com/AsyncBanana.png" width="100px;" style="border-radius: 50%" alt="Jacob Jackson"/><br />
+        <sub><b>Jacob Jackson</b></sub>
+      </a><br />
+      <em>Creator of same.energy</em><br/>
+      <small>AI Models · Core Search Technology<br/>Platform Infrastructure</small>
+    </td>
+  </tr>
+</table>
 
 **[same.energy](https://same.energy)** — The AI-powered visual search engine providing the core search technology, content curation, and platform infrastructure.
 
