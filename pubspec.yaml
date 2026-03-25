@@ -1,0 +1,43 @@
+name: same_energy_android_client
+description: "An elegant, high-performance Flutter Android client for same.energy — the AI-powered visual search engine. Built with Glassmorphism design and Riverpod."
+publish_to: 'none'
+version: 1.0.0+1
+homepage: https://github.com/MAITRI137/same-energy-android
+repository: https://github.com/MAITRI137/same-energy-android
+issue_tracker: https://github.com/MAITRI137/same-energy-android/issues
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.6.1
+  go_router: ^14.8.1
+  dio: ^5.7.0
+  cached_network_image: ^3.4.1
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_secure_storage: ^9.2.4
+  shared_preferences: ^2.5.3
+  image_picker: ^1.1.2
+  crypto: ^3.0.6
+  shimmer: ^3.0.0
+  share_plus: ^10.1.4
+  permission_handler: ^11.4.0
+  gal: ^2.3.0
+  uuid: ^4.5.1
+  url_launcher: ^6.3.1
+  google_fonts: ^6.2.1
+  local_auth: ^2.3.0
+  connectivity_plus: ^6.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/blacklogo-bg.png

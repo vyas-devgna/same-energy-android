@@ -1,0 +1,112 @@
+# ===================================================================
+# Same Energy Android Client — .gitignore
+# Flutter + Android + IntelliJ + VSCode + macOS + Linux + Windows
+# ===================================================================
+
+# ---------- Miscellaneous ----------
+*.class
+*.log
+*.pyc
+*.swp
+*.lock
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+Thumbs.db
+*.stackdump
+
+# ---------- IntelliJ / Android Studio ----------
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ---------- Visual Studio Code ----------
+# Keep extensions.json for contributor convenience
+.vscode/*
+!.vscode/extensions.json
+
+# ---------- Flutter / Dart ----------
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Generated Dart files
+*.g.dart
+*.freezed.dart
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# ---------- Symbolication & Obfuscation ----------
+app.*.symbols
+app.*.map.json
+
+# ---------- Android ----------
+**/android/**/build/
+**/android/**/.gradle/
+**/android/app/src/main/gen/
+**/android/**/*.class
+**/android/**/*.apk
+**/android/**/*.aab
+**/android/local.properties
+/android/local.properties
+**/android/key.properties
+**/*.jks
+
+# ---------- Unused platforms (Android-only client) ----------
+/ios/
+/macos/
+/linux/
+/windows/
+/web/
+
+# ---------- Environment / Secrets ----------
+.env
+.env.*
+*.env
+*.pem
+*.p12
+
+# ---------- OS files ----------
+.DS_Store
+Desktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+$RECYCLE.BIN/
+
+# ---------- Python (dev tooling) ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ---------- Node (dev tooling) ----------
+node_modules/
+
+# ---------- Coverage & Test output ----------
+coverage/
+*.lcov
+test-results/
+
+# ---------- Project-specific temp / log files ----------
+_logcat*.txt
+_har_summary.txt
+_tmp_parse_har*.py
+analyze_output.txt
+full.har
+*.har
+test.json
+test1.txt
+test_q.json
+test_text.json
+
+# ---------- Release artifacts (built locally) ----------
+release-artifacts/
