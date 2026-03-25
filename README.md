@@ -108,21 +108,6 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <em>Screenshots coming soon — contributions welcome!</em>
-</p>
-
-<!-- Uncomment when screenshots are available:
-| Light Mode | Dark Mode |
-|:---:|:---:|
-| ![Home Light](screenshots/home_light.png) | ![Home Dark](screenshots/home_dark.png) |
-| ![Search](screenshots/search.png) | ![Detail](screenshots/detail.png) |
--->
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
