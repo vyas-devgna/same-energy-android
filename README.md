@@ -94,6 +94,19 @@ lib/
 ├── router.dart                   # GoRouter configuration & guards
 └── main.dart                     # App entry point & provider scope
 ```
+## 📸 Screenshots
+![bd96f9aa-359a-4eac-b40b-00b5375b9240](https://github.com/user-attachments/assets/382418bd-75de-45b3-9e6c-ae175d28801b)
+![3cbfa821-8619-4bfb-85de-c8ace2abc148](https://github.com/user-attachments/assets/119d3511-2784-4b40-bfb1-7465d5824f66)
+![42beab90-1d17-4dfe-800c-e569901a766c](https://github.com/user-attachments/assets/6e43eecc-6f35-4649-8d04-edcc5594c59e)
+![431ed80e-b6a7-458d-8b71-2de1eb2aeec5](https://github.com/user-attachments/assets/645f3c60-6ac4-4b78-8397-4a038aeed8e9)
+![0ed559b8-1f0f-4bd5-b599-659a936961e9](https://github.com/user-attachments/assets/153702a0-fc75-4aee-a0a4-c7ff9a6ec7e2)
+![264ca60b-3908-49d5-bcbd-b55c75abf636](https://github.com/user-attachments/assets/5fbffcf3-d45f-4069-8dd9-887be9f6b977)
+![4ff42c21-996d-4713-a76f-87543b77caaf](https://github.com/user-attachments/assets/e2ca580f-3ea2-4d5d-8b3a-b6ff48eda3ce)
+![90462cac-5636-49e8-9526-3646be130db8](https://github.com/user-attachments/assets/e043c893-9519-4e30-b0b1-3d250d7367fd)
+![3829fa34-b8e6-4378-8691-daacf70bb2a4](https://github.com/user-attachments/assets/8726eadd-aa79-42de-b52e-7646af949611)
+![2159d8d9-a3bd-405c-ab13-d581a5dd77df](https://github.com/user-attachments/assets/f2860116-586a-4f92-a477-c37138959d3f)
+
+---
 
 **Tech Stack:**
 
