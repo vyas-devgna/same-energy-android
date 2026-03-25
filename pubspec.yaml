@@ -1,7 +1,7 @@
 name: same_energy_android_client
 description: "An elegant, high-performance Flutter Android client for same.energy — the AI-powered visual search engine. Built with Glassmorphism design and Riverpod."
 publish_to: 'none'
-version: 1.0.0+1
+version: 1.0.1+2
 homepage: https://github.com/MAITRI137/same-energy-android
 repository: https://github.com/MAITRI137/same-energy-android
 issue_tracker: https://github.com/MAITRI137/same-energy-android/issues

@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - No upcoming features mapped yet.
 
+## [1.0.1] - 2026-03-25
+
+### Fixed
+- Increased search input debounce to 800ms to prevent premature API queries on first character.
+- Fixed a bug where deleted empty collections would reappear after syncing with the server.
+- Resolved GitHub Action CI failures caused by Dart SDK version solving constraints.
+
 ## [1.0.0] - 2026-03-25
 
 ### Added
