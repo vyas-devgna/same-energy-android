@@ -7,7 +7,7 @@ repository: https://github.com/MAITRI137/same-energy-android
 issue_tracker: https://github.com/MAITRI137/same-energy-android/issues
 
 environment:
-  sdk: ^3.11.0
+  sdk: ^3.1.0
 
 dependencies:
   flutter:
